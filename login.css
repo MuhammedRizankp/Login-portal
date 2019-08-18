@@ -1,0 +1,140 @@
+@import url(https://fonts.googleapis.com/css?family=Exo+2);
+@import url(http://weloveiconfonts.com/api/?family=brandico);
+[class*="brandico-"]:before {
+    font-family: 'brandico', sans-serif;
+  }
+  
+  * {
+    font-size: 100%;
+    box-sizing: border-box;
+    
+  
+  }
+  html{
+          background-color: #E5E5E5;
+          display: flex;
+          
+      }
+  
+  
+  body{
+    background-color: #FFFFFF;
+    margin-left: 350px;
+    margin-top: 100px;
+    width: 455px;
+    height: 605px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: none;
+    border-top-right-radius: none;
+    overflow: hidden;
+  
+  
+  }
+  button{
+      border: none;
+      background: none;
+      font-size: 25px;
+      margin-left: 75px;
+      margin-top: 50px;
+      color: #6C5454;
+      cursor: pointer;
+      position: relative
+  }
+  .input{
+         
+      border-top: none;
+         border-left: none;
+         border-right: none;
+         margin-left:50px ;
+         
+         
+         
+        
+         
+      }
+      p{
+          color: #9F9898;
+          margin-left: 50px;
+          margin-top: 70px;
+          font-size: 20px;
+      }
+     
+  
+  .chkbx{
+  margin-left: 50px;
+  margin-top: 50px;
+  
+  }
+  .rem{
+    color: #614949;
+    margin-top: 5px;
+  }
+  .chkbx:hover{
+    cursor: pointer;
+  }
+  a{
+    margin-left: 100px;
+    color: #614949
+  }
+  .tablinks:active{
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-color: #D33B67;
+  }
+  .login{
+    background-color: #D33B67;
+    border-radius: 40px;
+    height: 43px;
+    width: 103px;
+    margin-left: 50px;
+    margin-top: 70px;
+    
+  
+  }
+  .signupb{
+    background-color: #D33B67;
+    border-radius: 40px;
+    height: 43px;
+    width: 120px;
+    margin-left: 50px;
+    margin-top: 100px;
+      
+  }
+  .tabcontent {
+    padding: 6px 12px;
+    
+    border-top: none;
+  }
+  .tab button:hover {
+    background-color: #ddd;
+    border-radius: 50px;
+  }
+  
+  
+  
+  
+  .placeholder {
+    
+    pointer-events: none;
+    margin-top: 60px;
+    height: 25px;
+    font-size: 25px;
+    margin-left:50px ;
+    
+    color: #ccc;
+  }
+  .inim{
+    margin-left: 424px;
+    margin-top: -545px;
+    height: 645px;
+    display: flex;
+  }
+       .upim{ margin-left: 424px;
+      margin-top: -508px;
+        height: 645px;
+        overflow: hidden;
+        background-repeat: no-repeat;
+  
+       } 
+  
